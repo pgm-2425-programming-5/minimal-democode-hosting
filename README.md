@@ -30,3 +30,17 @@
 4. Run frontend and backend
    1. Frontend: npm run dev
    2. Backend: npm run develop
+5. backend deployment
+   1. Create database on Render
+   2. Connect database > Set Environment Variables
+   3. Create a new project on Render
+   4. Add a new web service
+   5. Add environment variables
+   6. Deploy
+6. frontend deployment
+   1. Check if you can build the frontend locally
+   2. Fix any issues
+   3. Create new project on Vercel
+   4. Add environment variables
+   5. Deploy
+   6. 
